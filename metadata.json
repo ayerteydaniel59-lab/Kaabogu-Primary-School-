@@ -1,0 +1,6 @@
+{
+  "name": "GES School Assessment Tracker",
+  "description": "Ghana Education Service (GES) Class 4 and 5 assessment and spreadsheet manager, supporting local Excel and Google Sheets export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
